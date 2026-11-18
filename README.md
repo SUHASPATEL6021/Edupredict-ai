@@ -2,6 +2,11 @@
 
 Interactive student-performance prediction dashboard built with Streamlit, scikit-learn and Plotly.
 
+## 🌐 Live demo
+**[Try EduPredict AI](https://suhas-edupredict-ai.streamlit.app/)**
+
+The public demo is hosted on Streamlit Community Cloud. The app uses synthetic data.
+
 ## Features
 - Interactive input sliders and exam-score prediction
 - Random forest regression model
